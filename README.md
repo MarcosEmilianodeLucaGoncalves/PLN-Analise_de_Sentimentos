@@ -8,7 +8,7 @@ ministra aulas na Faculdade FATEC - Ourinhos, que tem relacão na matéria de PL
 - O código segue as boas praticas com comentários linha por linha
 - foram raspados 2000 tweets com tema #politica
 - No 2° foram usados as bibliotecas nltk, pandas, re, spacy, numpy, sklearn que faz o tratamento dos dados coletados, removendo 
-- Alguns caracteres especiais precisavam ser removidos como:
+- Sendo que alguns caracteres especiais precisavam ser removidos como:
 - ?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', ''
 - [^\w\s]', ''
 - <[^<>]*>', ''
